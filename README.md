@@ -1,6 +1,8 @@
 # Digital Communications Project
 
 This repo contains the ELC325 course project of the year 2019 in Cairo University.
+
+Name: Ahmed Essam El Deen
  
 The following modulation schemes are simulated using Simulink and Matlab:
 - **BPSK**
@@ -73,10 +75,10 @@ while (usually) maintaining the phase. Binary FSK is used here.
 ### Brief Description
 This schema combines both amplitude and phase to represent information. In the
 analog case two orthogonal streams (phase difference = pi/2) are transmitted
-where each stream is amplitude modulated. In the digital case the amplitudes
-are chosen (usually) to form a square grid, where each point represents a different
-symbol. A QAM16 symbol can represent a 4-bit number (16 symbol), where as QAM64
-symbol can represent a 6-bit number (64 symbol).
+where each stream is amplitude modulated. In the digital case, multiple amplitudes
+and phases are used (usually) to form a square grid, where each point represents a
+different symbol. A QAM16 symbol can represent a 4-bit number, and a QAM64 symbol
+can represent a 6-bit number.
 
 ## QAM16
 ### Schematic
