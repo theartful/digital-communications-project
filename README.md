@@ -1,5 +1,8 @@
 # Digital Communications Project
-The following modulation schemes are simulated using Simulink and matlab:
+
+This repo contains the ELC325 course project of the year 2019 in Cairo University.
+ 
+The following modulation schemes are simulated using Simulink and Matlab:
 - **BPSK**
 - **QPSK**
 - **FSK**
